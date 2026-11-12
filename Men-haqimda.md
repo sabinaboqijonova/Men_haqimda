@@ -1,0 +1,3 @@
+Salom, Man Sabina Boqijonova yoshim 14 da.
+Hozirda Al-xorazmiy vorislari dasturida Fv26i0809 guruhda campyuter savodxonligi bo'yicha o'qiyapman va bu ma'lumotlar mening birinchi Git ilovasida yaratgan va Githubga joylagan narsam bo'ladi.
+Bundan tashqari manda kitobxonlik yo'nalishida ham faol bo'lim kelmoqdaman...
